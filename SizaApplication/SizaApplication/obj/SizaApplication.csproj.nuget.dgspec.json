@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mmrak\\Desktop\\WebApplication Sizanani\\SizaApplication\\SizaApplication\\SizaApplication.csproj": {}
+    "C:\\Users\\mmrak\\Desktop\\WebApplication Sizanani\\Sizanani\\SizaApplication\\SizaApplication\\SizaApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mmrak\\Desktop\\WebApplication Sizanani\\SizaApplication\\SizaApplication\\SizaApplication.csproj": {
+    "C:\\Users\\mmrak\\Desktop\\WebApplication Sizanani\\Sizanani\\SizaApplication\\SizaApplication\\SizaApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mmrak\\Desktop\\WebApplication Sizanani\\SizaApplication\\SizaApplication\\SizaApplication.csproj",
+        "projectUniqueName": "C:\\Users\\mmrak\\Desktop\\WebApplication Sizanani\\Sizanani\\SizaApplication\\SizaApplication\\SizaApplication.csproj",
         "projectName": "SizaApplication",
-        "projectPath": "C:\\Users\\mmrak\\Desktop\\WebApplication Sizanani\\SizaApplication\\SizaApplication\\SizaApplication.csproj",
+        "projectPath": "C:\\Users\\mmrak\\Desktop\\WebApplication Sizanani\\Sizanani\\SizaApplication\\SizaApplication\\SizaApplication.csproj",
         "packagesPath": "C:\\Users\\mmrak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mmrak\\Desktop\\WebApplication Sizanani\\SizaApplication\\SizaApplication\\obj\\",
+        "outputPath": "C:\\Users\\mmrak\\Desktop\\WebApplication Sizanani\\Sizanani\\SizaApplication\\SizaApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

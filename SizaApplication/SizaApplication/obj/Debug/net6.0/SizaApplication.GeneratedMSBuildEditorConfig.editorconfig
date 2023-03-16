@@ -8,73 +8,73 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SizaApplication
 build_property.RootNamespace = SizaApplication
-build_property.ProjectDir = C:\Users\mmrak\Desktop\WebApplication Sizanani\SizaApplication\SizaApplication\
+build_property.ProjectDir = C:\Users\mmrak\Desktop\WebApplication Sizanani\Sizanani\SizaApplication\SizaApplication\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mmrak\Desktop\WebApplication Sizanani\SizaApplication\SizaApplication
+build_property.MSBuildProjectDirectory = C:\Users\mmrak\Desktop\WebApplication Sizanani\Sizanani\SizaApplication\SizaApplication
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/mmrak/Desktop/WebApplication Sizanani/SizaApplication/SizaApplication/Views/ComfirmDelete.cshtml]
+[C:/Users/mmrak/Desktop/WebApplication Sizanani/Sizanani/SizaApplication/SizaApplication/Views/ComfirmDelete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tZmlybURlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mmrak/Desktop/WebApplication Sizanani/SizaApplication/SizaApplication/Views/Edit.cshtml]
+[C:/Users/mmrak/Desktop/WebApplication Sizanani/Sizanani/SizaApplication/SizaApplication/Views/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mmrak/Desktop/WebApplication Sizanani/SizaApplication/SizaApplication/Views/Home/Index.cshtml]
+[C:/Users/mmrak/Desktop/WebApplication Sizanani/Sizanani/SizaApplication/SizaApplication/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mmrak/Desktop/WebApplication Sizanani/SizaApplication/SizaApplication/Views/Home/Privacy.cshtml]
+[C:/Users/mmrak/Desktop/WebApplication Sizanani/Sizanani/SizaApplication/SizaApplication/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mmrak/Desktop/WebApplication Sizanani/SizaApplication/SizaApplication/Views/RegConstractor.cshtml]
+[C:/Users/mmrak/Desktop/WebApplication Sizanani/Sizanani/SizaApplication/SizaApplication/Views/RegConstractor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnQ29uc3RyYWN0b3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mmrak/Desktop/WebApplication Sizanani/SizaApplication/SizaApplication/Views/RegisterPage.cshtml]
+[C:/Users/mmrak/Desktop/WebApplication Sizanani/Sizanani/SizaApplication/SizaApplication/Views/RegisterPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mmrak/Desktop/WebApplication Sizanani/SizaApplication/SizaApplication/Views/Shared/Error.cshtml]
+[C:/Users/mmrak/Desktop/WebApplication Sizanani/Sizanani/SizaApplication/SizaApplication/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mmrak/Desktop/WebApplication Sizanani/SizaApplication/SizaApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/mmrak/Desktop/WebApplication Sizanani/Sizanani/SizaApplication/SizaApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mmrak/Desktop/WebApplication Sizanani/SizaApplication/SizaApplication/Views/VehcileAndContructor.cshtml]
+[C:/Users/mmrak/Desktop/WebApplication Sizanani/Sizanani/SizaApplication/SizaApplication/Views/VehcileAndContructor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoY2lsZUFuZENvbnRydWN0b3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mmrak/Desktop/WebApplication Sizanani/SizaApplication/SizaApplication/Views/ViewContractor.cshtml]
+[C:/Users/mmrak/Desktop/WebApplication Sizanani/Sizanani/SizaApplication/SizaApplication/Views/ViewContractor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld0NvbnRyYWN0b3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mmrak/Desktop/WebApplication Sizanani/SizaApplication/SizaApplication/Views/ViewEditAndDelete.cshtml]
+[C:/Users/mmrak/Desktop/WebApplication Sizanani/Sizanani/SizaApplication/SizaApplication/Views/ViewEditAndDelete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld0VkaXRBbmREZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mmrak/Desktop/WebApplication Sizanani/SizaApplication/SizaApplication/Views/Viewsummary.cshtml]
+[C:/Users/mmrak/Desktop/WebApplication Sizanani/Sizanani/SizaApplication/SizaApplication/Views/Viewsummary.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld3N1bW1hcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mmrak/Desktop/WebApplication Sizanani/SizaApplication/SizaApplication/Views/ViewVehciles.cshtml]
+[C:/Users/mmrak/Desktop/WebApplication Sizanani/Sizanani/SizaApplication/SizaApplication/Views/ViewVehciles.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld1ZlaGNpbGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mmrak/Desktop/WebApplication Sizanani/SizaApplication/SizaApplication/Views/_ViewImports.cshtml]
+[C:/Users/mmrak/Desktop/WebApplication Sizanani/Sizanani/SizaApplication/SizaApplication/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mmrak/Desktop/WebApplication Sizanani/SizaApplication/SizaApplication/Views/_ViewStart.cshtml]
+[C:/Users/mmrak/Desktop/WebApplication Sizanani/Sizanani/SizaApplication/SizaApplication/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mmrak/Desktop/WebApplication Sizanani/SizaApplication/SizaApplication/Views/Shared/_Layout.cshtml]
+[C:/Users/mmrak/Desktop/WebApplication Sizanani/Sizanani/SizaApplication/SizaApplication/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-a6m3qfqnv0

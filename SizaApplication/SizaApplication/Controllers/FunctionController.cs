@@ -195,7 +195,7 @@ namespace SizaApplication.Controllers
                 {
                     Contractor contractor = new Contractor();
                     contractor.Id = (int)reader["ContractorId"];
-                    contractor.Name = (string)reader["Contractor Name"];
+                    contractor.Name = (string)reader["Name"];
                     contractors.Add(contractor);
                 }
 
@@ -209,10 +209,10 @@ namespace SizaApplication.Controllers
                     Vehicle vehicle = new Vehicle();
                     vehicle.Id = (int)reader["VehicleId"];
                     vehicle.contractorId = (int)reader["ContractorId"];
-                    vehicle.Type = (string)reader["VehicleType"];
+                    vehicle.Type = (string)reader["Type"];
                     vehicle.RegistrationNumber = (string)reader["RegistrationNumber"];
                     vehicle.Model = (string)reader["Model"];
-                    vehicle.WeightInTons = (decimal)reader["Weight"];
+                    vehicle.WeightInTons = (decimal)reader["WeightInTons"];
                     vehicles.Add(vehicle);
                 }
 
@@ -241,7 +241,7 @@ namespace SizaApplication.Controllers
                 {
                     Contractor contractor = new Contractor();
                     contractor.Id = (int)reader["ContractorId"];
-                    contractor.Name = (string)reader["Contractor Name"];
+                    contractor.Name = (string)reader[" Name"];
                     contractors.Add(contractor);
                 }
 
@@ -255,10 +255,10 @@ namespace SizaApplication.Controllers
                     Vehicle vehicle = new Vehicle();
                     vehicle.Id = (int)reader["VehicleId"];
                     vehicle.contractorId = (int)reader["ContractorId"];
-                    vehicle.Type = (string)reader["VehicleType"];
+                    vehicle.Type = (string)reader["Type"];
                     vehicle.RegistrationNumber = (string)reader["RegistrationNumber"];
                     vehicle.Model = (string)reader["Model"];
-                    vehicle.WeightInTons = (decimal)reader["Weight"];
+                    vehicle.WeightInTons = (decimal)reader["WeightInTons"];
                     vehicles.Add(vehicle);
                 }
 

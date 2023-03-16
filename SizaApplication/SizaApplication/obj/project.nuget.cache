@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UoUf+3+vrAPvLbnMKgy2Ixwbntmks8KZjkZPG1GlP+Y2sK1NXnJvA2oiSUY1LApMG5jdo9TMikpJD88k7PDvoA==",
+  "dgSpecHash": "QRiuqcQrtHCsI0QFZJQkTXNwSPmSK/GCiBFoVUJHkaZ+522/JBIt9bUFPk70EyNTnvJBzMAu02hkR/iA9QodxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mmrak\\Desktop\\WebApplication Sizanani\\SizaApplication\\SizaApplication\\SizaApplication.csproj",
+  "projectFilePath": "C:\\Users\\mmrak\\Desktop\\WebApplication Sizanani\\Sizanani\\SizaApplication\\SizaApplication\\SizaApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mmrak\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\mmrak\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
