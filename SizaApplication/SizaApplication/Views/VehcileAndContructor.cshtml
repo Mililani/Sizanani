@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Vehicle>
+
+<h2>View Contractor's Vehicles</h2>
+
+@using (Html.BeginForm("ViewVehicles", "Function", FormMethod.Post))
+{
+    <div class="form-group">
+        <label for="contractorId">Select a Contractor:</label>
+        @Html.DropDownList("contractorId", new SelectList(ViewBag.Contractors, "ContractorId", "ContractorName"), "-- Select --", new { @class = "form-control" })
+    </div>
+    <button type="submit" class="btn btn-primary">View Vehicles</button>
+}
+
+@if (Model != null && Model.Count() > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Vehicle Type</th>
+                <th>Registration Number</th>
+                <th>Model</th>
+                <th>Weight (tons)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var vehicle in Model)
+            {
+                <tr>
+                    <td>@vehicle.Type</td>
+                    <td>@vehicle.RegistrationNumber</td>
+                    <td>@vehicle.Model</td>
+                    <td>@vehicle.WeightInTons</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else if (ViewBag.SelectedContractor != null)
+{
+    <p>No vehicles found for the selected contractor.</p>
+}

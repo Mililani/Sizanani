@@ -1,0 +1,30 @@
+﻿@model IEnumerable<dynamic>
+
+<h2>Summarize Contractors and they respected Vehciles</h2>
+
+@if (Model != null && Model.Count() > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Contractor Name</th>
+                <th>Number of Vehicles</th>
+                <th>Total Tons</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var data in Model)
+            {
+                <tr>
+                    <td>@data.ContractorName</td>
+                    <td>@data.NumberOfVehicles</td>
+                    <td>@data.TotalTons</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No data has been  found.</p>
+}

@@ -1,0 +1,27 @@
+﻿@model Vehicle
+
+@using (Html.BeginForm("Update", "Function", FormMethod.Post))
+{
+    @Html.HiddenFor(model => model.Id)
+
+    <table>
+        <tr>
+            <td>Type:</td>
+            <td>@Html.TextBoxFor(model => model.Type)</td>
+        </tr>
+        <tr>
+            <td>Registration Number:</td>
+            <td>@Html.TextBoxFor(model => model.RegistrationNumber)</td>
+        </tr>
+        <tr>
+            <td>Model:</td>
+            <td>@Html.TextBoxFor(model => model.Model)</td>
+        </tr>
+        <tr>
+            <td>Weight (Tons):</td>
+            <td>@Html.TextBoxFor(model => model.WeightInTons)</td>
+        </tr>
+    </table>
+
+    <input type="submit" value="Update" />
+}

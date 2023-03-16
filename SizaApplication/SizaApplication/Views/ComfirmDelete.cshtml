@@ -1,0 +1,27 @@
+﻿@model Vehicle
+
+<h2>Are you sure you want to delete this vehicle?</h2>
+
+<table>
+    <tr>
+        <td>Type:</td>
+        <td>@Model.Type</td>
+    </tr>
+    <tr>
+        <td>Registration Number:</td>
+        <td>@Model.RegistrationNumber</td>
+    </tr>
+    <tr>
+        <td>Model:</td>
+        <td>@Model.Model</td>
+    </tr>
+    <tr>
+        <td>Weight (Tons):</td>
+        <td>@Model.WeightInTons</td>
+    </tr>
+</table>
+
+@using (Html.BeginForm("ConfirmDelete", "Vehicle", new { id = Model.Id }, FormMethod.Post))
+{
+    <input type="submit" value="Delete" />
+}

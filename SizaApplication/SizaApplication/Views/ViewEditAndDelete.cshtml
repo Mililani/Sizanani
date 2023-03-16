@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Vehicle>
+
+<table>
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Registration Number</th>
+            <th>Model</th>
+            <th>Weight (Tons)</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var vehicle in Model)
+        {
+            <tr>
+                <td>@vehicle.Type</td>
+                <td>@vehicle.RegistrationNumber</td>
+                <td>@vehicle.Model</td>
+                <td>@vehicle.WeightInTons</td>
+                <td><a href="@Url.Action("Edit", new { id = vehicle.Id })">Edit</a></td>
+                <td><a href="@Url.Action("Delete", new { id = vehicle.Id })">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

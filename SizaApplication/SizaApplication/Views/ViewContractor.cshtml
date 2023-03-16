@@ -1,0 +1,28 @@
+﻿@model List<Contractor>
+
+<h2>Contractors</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone Number</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var contractor in Model)
+        {
+            <tr>
+                <td>@contractor.Name</td>
+                <td>@contractor.Email</td>
+                <td>@contractor.Phone</td>
+                
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+

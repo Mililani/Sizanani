@@ -1,0 +1,29 @@
+﻿@model List<Vehicle>
+
+<h2>Contractors</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Model</th>
+            <th>Registration Number</th>
+            <th>WeightInTons</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var vehicle in Model)
+        {
+            <tr>
+                <td>@vehicle.Type</td>
+                <td>@vehicle.Model</td>
+                <td>@vehicle.RegistrationNumber</td>
+                <td>@vehicle.WeightInTons</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+
